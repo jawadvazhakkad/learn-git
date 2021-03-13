@@ -1,4 +1,4 @@
-learn-git
+Learn-Git
 =========
 
 Git experiments @ fossmeet '13
